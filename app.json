@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "HASSAN_X_T_y",
       "required": true
     },
     "CAPTION" : {
@@ -43,7 +43,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "T_y-𝐌𝐃-𝐕2"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -106,15 +106,15 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "923177112183"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUhtKzNOcmJnR0NJeUFzcVR6bXhyNWRWQXZYUWcwNXdoZDRNeTkxdFYzZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaG9sL2h4YjRZdURJYkQySmpzc3J3UW1YM25jZWhHSkNadFloOG9tRWRrUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnSjRCbERjMlBzTEgrc29iS0JZb0JrTk9OOSt6VHBjSUt4WXV4RFFXMldBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXejlKWDdHMGFNVEs0cU0zT1Y3OE1OR0NCMHdPY1BiUzNpMDJqTVFQRTMwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlBUXBObXltVnRSNVE4VFhUTlJaWlFZVXhRVjQraUhUYk5GTFZFSGdOMjg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVRSUh0T0dISDVUU3NsNjhpd2FxZnRvdm82eWc5U2pBRzlGcG9jbEFjRTA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSU13QXd1a3FucTFYYTMrNUQzVHYwMUdPendOTU84bUZEUkdZK3FjOWRHRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY3VoL3dja21tMVM1V3IzWG9iUlJ6dEYydTlvNVNIY0p6Wm82cWJIYTRXVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjQrMlhkbnhISmd1M1NEbTFBZy82Tlh5ZzVwRFJiaVdnd21XOUxuKzQ1ZW9OZUl5ay9SOElSaWJ5RnlHNjU1eWRYNkxYNzJoa3BQamM1MnlYMThickJnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDYsImFkdlNlY3JldEtleSI6IkZySXJKdGRPbFkxczdjRUJhOXp2cVJwbGZZL1A2cDJuckU5VlkzdWRMOEU9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InFvak5VekdSUXoyTXF3cnpmRXlTNUEiLCJwaG9uZUlkIjoiODRkNTlhNDEtZjczOC00Mjg0LThjOWQtZDNlMTkzNGQyN2JlIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllrTm4rbllnd2NPNm5kdis1aTEyMjhDc2QwUT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtZm11NGxheldwd0tCMWR0NVZzYTRPS2JZT2M9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiSEdTWTkzTkwiLCJtZSI6eyJpZCI6IjMxOTcwMTA1MjAxNzU6MUBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJIYXNzYW4uQXJhaW4ifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BXS3BJZ0dFTkhTeHJNR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImdXT29qK1pQN2NBOXpsT2NiREROVFRXWDZZa2RCSDl1RHNpcFhhd0JiMzg9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjVHU0o1WENJbnpPalRQY3pialBCTUV4cGYxeERKT2FzY1NFT3VVcmJHZkZXRDlRRXZlZDRSOTM0RjAwZ0d4UUJHNW4yeC9uRmVqRkx3UHlFRUlQa0JRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJFQms3UVN6SVZvQzVhSWZVcjNYdnQvZWhUNVNWdnlFbnZGQkdGcnI4VjRiMkNYNnBYQVMrTWgrMVFoZkFhSHpCOUFGZTNhNlJWaEdMaFdxYTQ4TmZEQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjMxOTcwMTA1MjAxNzU6MUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJZRmpxSS9tVCszQVBjNVRuR3d3elUwMWwrbUpIUVIvYmc3SXFWMnNBVzkvIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE4NzI0OTU4LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQVBoNCJ9"
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
