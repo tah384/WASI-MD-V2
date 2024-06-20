@@ -21,10 +21,12 @@ global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "wasixml@gmail.com";
 global.location = "Lahore,Pakistan.";
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://hassanaliarain406:Vl8FypcwIbj5ElKA@cluster0.5syj88e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://hassanaliarain539:<password>@cluster0.qw4rbfz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+";
 global.allowJids = process.env.ALLOW_JID || "923192173398@s.whatsapp.net";
 global.blockJids = process.env.BLOCK_JID || "null";
-global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://hassanaliarain406:Vl8FypcwIbj5ElKA@cluster0.5syj88e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://hassanaliarain539:<password>@cluster0.qw4rbfz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github = process.env.GITHUB || "https://github.com/Itxxwasi/WASI-MD-V2";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
@@ -65,7 +67,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "WASO",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
-  ownername: process.env.OWNER_NAME || "WASI",
+  ownername: process.env.OWNER_NAME || "HASSAN",
   errorChat: process.env.ERROR_CHAT || "923177112183",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
