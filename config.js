@@ -21,13 +21,11 @@ global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "wasixml@gmail.com";
 global.location = "Lahore,Pakistan.";
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://hassanaliarain539:<password>@cluster0.qw4rbfz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-";
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://startouch47:<password>@cluster0.htss7hg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "923192173398@s.whatsapp.net";
 global.blockJids = process.env.BLOCK_JID || "null";
-global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://hassanaliarain539:<password>@cluster0.qw4rbfz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
+global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://startouch47:<password>@cluster0.htss7hg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+global.timezone = process.env.TZ || process.env.TIME || "Asia/Karachi";
 global.github = process.env.GITHUB || "https://github.com/Itxxwasi/WASI-MD-V2";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
